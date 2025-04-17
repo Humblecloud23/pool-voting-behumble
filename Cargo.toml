@@ -1,0 +1,8 @@
+[package]
+name = "arch-bitcoin-pool-voting"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+arch-program = "0.2"
+borsh = "0.9.3"
